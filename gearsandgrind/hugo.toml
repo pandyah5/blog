@@ -1,0 +1,6 @@
+baseURL = "https://gearsandgrind.github.io/"
+relativeURLs = true
+languageCode = 'en-us'
+title = 'Gears and Grind: HPs Engineering Expedition'
+
+theme="hugo-theme-mini"
